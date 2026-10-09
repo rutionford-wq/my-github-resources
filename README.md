@@ -61,6 +61,7 @@
 | crawl4ai | 面向 LLM 与 AI Agent 的开源网页爬虫/抓取工具。可将任意网站转换为干净、适合 LLM 使用的 Markdown；可自托管，也可使用 Crawl4AI Cloud。 | Python | 84,870 | [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | [rutionford-wq/crawl4ai](https://github.com/rutionford-wq/crawl4ai) | 2026-10-07 | 用户转发的 X 帖子 |
 | Scrapling | 自适应的网页抓取框架，可处理从单次请求到大规模爬取的各种场景。支持 Playwright、隐身抓取，并提供 MCP Server。 | Python | 86,019 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | [rutionford-wq/Scrapling](https://github.com/rutionford-wq/Scrapling) | 2026-10-07 | 用户转发的 X 帖子 |
 | patchright-enhanced | 浏览器自动化工具包，用于 QA 测试、监控和内部工作流。 | TypeScript | 478 | [whaleyxbt/patchright-enhanced](https://github.com/whaleyxbt/patchright-enhanced) | [rutionford-wq/patchright-enhanced](https://github.com/rutionford-wq/patchright-enhanced) | 2026-10-07 | 用户转发的 X 帖子 |
+| universal-content-intake | Mac/Windows 上一键资料下载工具：给一个链接即可下载视频、文档、图片、文章或整页网页；可选自动监控 YouTube 作者新视频并翻译压制中文字幕。 | Python | 38 | [YIAN6557/universal-content-intake](https://github.com/YIAN6557/universal-content-intake) | [rutionford-wq/universal-content-intake](https://github.com/rutionford-wq/universal-content-intake) | 2026-10-09 | 用户转发的 X 帖子 |
 
 ## 其他
 
@@ -69,5 +70,6 @@
 | awesome-english-ebooks | 经济学人（含音频）、纽约客、卫报、连线、大西洋月刊等英语杂志的下载合集。支持 epub、mobi、pdf 格式，每周更新。 | CSS | 37,539 | [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) | [rutionford-wq/awesome-english-ebooks](https://github.com/rutionford-wq/awesome-english-ebooks) | 2026-10-07 | 用户转发的 X 帖子 |
 | aetherviz-master | AetherViz Master：互动教育可视化工具。可将任意教学主题转化为沉浸式 3D 交互网页。 | — | 1,501 | [andyhuo520/aetherviz-master](https://github.com/andyhuo520/aetherviz-master) | [rutionford-wq/aetherviz-master](https://github.com/rutionford-wq/aetherviz-master) | 2026-10-07 | 用户转发的 X 帖子 |
 | ai-money-maker-handbook | AI 副业赚钱资料大集合。介绍如何利用 AI 做副业项目以获取额外收益，另提供英文版。 | CSS | 5,793 | [XiaomingX/ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook) | [rutionford-wq/ai-money-maker-handbook](https://github.com/rutionford-wq/ai-money-maker-handbook) | 2026-10-07 | 用户转发的 X 帖子 |
+| Financial_freedom | 最全赚钱投资指南。持续整理优质投资书籍（初/中/高级共 16 本）、理财纪录片与美股学习频道等财富自由相关资料。 | — | 6,569 | [codeman008/Financial_freedom](https://github.com/codeman008/Financial_freedom) | [rutionford-wq/Financial_freedom](https://github.com/rutionford-wq/Financial_freedom) | 2026-10-09 | 用户转发的 X 帖子 |
 
-> star 数统计于 2026-10-07。
+> star 数取自各条目收录当天。
