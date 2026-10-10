@@ -28,6 +28,7 @@
 | GenAI_Agents | 50 多个生成式 AI Agent 技术的教程与实现。内容从基础对话机器人到复杂多智能体系统，涉及 LangChain、LangGraph、RAG、MCP 等。 | Jupyter Notebook | 24,479 | [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) | [rutionford-wq/GenAI_Agents](https://github.com/rutionford-wq/GenAI_Agents) | 2026-10-07 | 用户转发的 X 帖子 |
 | Agent-Reach | 让 AI Agent “看见”整个互联网的工具。通过一个 CLI 即可读取和搜索 Twitter、Reddit、YouTube、GitHub、B 站、小红书等平台，无需 API 费用。 | Python | 92,740 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | [rutionford-wq/Agent-Reach](https://github.com/rutionford-wq/Agent-Reach) | 2026-10-07 | 用户转发的 X 帖子 |
 | loop-engineering | 面向 AI 编程智能体“循环工程（loop engineering）”的实践模式、起步模板与 CLI 工具。帮助设计提示并编排智能体的系统，内含 loop-audit、loop-init、loop-cost 等工具。 | TypeScript | 11,429 | [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) | [rutionford-wq/loop-engineering](https://github.com/rutionford-wq/loop-engineering) | 2026-10-07 | 用户转发的 X 帖子 |
+| diagram-design | 面向 Claude Code、Codex、Copilot、Cursor 等编程 Agent 的图表设计技能（Agent Skill）。用自然语言描述即可生成单个自包含的 HTML+SVG 杂志风图表，支持 44 种图表类型（架构图、时序图、甘特图、桑基图等），可匹配个人品牌配色，也能重绘 Mermaid/draw.io/Excalidraw 图。 | HTML | 48,613 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [rutionford-wq/diagram-design](https://github.com/rutionford-wq/diagram-design) | 2026-10-10 | [用户转发的 X 帖子](https://x.com/lxfater/status/2108369386079662191) |
 
 ## Agent 专题合集
 
