@@ -41,6 +41,7 @@
 | awesome-ai-guardrails | 关于 AI 护栏（guardrails）的资料精选列表。涉及安全、提示注入、红队测试等主题。 | Python | 103 | [enguard-ai/awesome-ai-guardrails](https://github.com/enguard-ai/awesome-ai-guardrails) | [rutionford-wq/awesome-ai-guardrails](https://github.com/rutionford-wq/awesome-ai-guardrails) | 2026-10-07 | 用户转发的 X 帖子 |
 | awesome-evals | 由 BenchFlow 维护的 AI Agent 构建与评测资源库。收录论文、博客、演讲、工具和基准测试。 | — | 956 | [benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals) | [rutionford-wq/awesome-evals](https://github.com/rutionford-wq/awesome-evals) | 2026-10-07 | 用户转发的 X 帖子 |
 | awesome-agent-observability | LLM 与 AI Agent 可观测性相关的工具、标准与平台精选列表。涵盖 OpenTelemetry GenAI 约定、链路追踪、评测、护栏、网关及 MCP 工具。 | — | 39 | [anhermon/awesome-agent-observability](https://github.com/anhermon/awesome-agent-observability) | [rutionford-wq/awesome-agent-observability](https://github.com/rutionford-wq/awesome-agent-observability) | 2026-10-07 | 用户转发的 X 帖子 |
+| awesome-grokbot-playbooks | 中文 Grok Bot 玩法与可抄配方清单，收录作战室、雷达 Routine、额度体检等实用配方，由 Grok Bot + Claude 协作维护。 | HTML | 110 | [sit-in/awesome-grokbot-playbooks](https://github.com/sit-in/awesome-grokbot-playbooks) | [rutionford-wq/awesome-grokbot-playbooks](https://github.com/rutionford-wq/awesome-grokbot-playbooks) | 2026-10-21 | [用户转发的 X 帖子](https://x.com/sitinme/status/2112722502845878345) |
 
 ## AI 与机器学习学习资料
 
