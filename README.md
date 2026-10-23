@@ -14,7 +14,8 @@
 2. [Agent 专题合集](#agent-专题合集)
 3. [AI 与机器学习学习资料](#ai-与机器学习学习资料)
 4. [网页抓取](#网页抓取)
-5. [其他](#其他)
+5. [CAD 与 3D 设计](#cad-与-3d-设计)
+6. [其他](#其他)
 
 ## Agent 与 AI 工程
 
@@ -64,6 +65,12 @@
 | Scrapling | 自适应的网页抓取框架，可处理从单次请求到大规模爬取的各种场景。支持 Playwright、隐身抓取，并提供 MCP Server。 | Python | 86,019 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | [rutionford-wq/Scrapling](https://github.com/rutionford-wq/Scrapling) | 2026-10-07 | 用户转发的 X 帖子 |
 | patchright-enhanced | 浏览器自动化工具包，用于 QA 测试、监控和内部工作流。 | TypeScript | 478 | [whaleyxbt/patchright-enhanced](https://github.com/whaleyxbt/patchright-enhanced) | [rutionford-wq/patchright-enhanced](https://github.com/rutionford-wq/patchright-enhanced) | 2026-10-07 | 用户转发的 X 帖子 |
 | universal-content-intake | Mac/Windows 上一键资料下载工具：给一个链接即可下载视频、文档、图片、文章或整页网页；可选自动监控 YouTube 作者新视频并翻译压制中文字幕。 | Python | 38 | [YIAN6557/universal-content-intake](https://github.com/YIAN6557/universal-content-intake) | [rutionford-wq/universal-content-intake](https://github.com/rutionford-wq/universal-content-intake) | 2026-10-09 | 用户转发的 X 帖子 |
+
+## CAD 与 3D 设计
+
+| 名称 | 详细说明 | 主要语言 | star 数 | 原仓库链接 | Fork 链接 | 收录日期 | 来源 |
+|---|---|---|---|---|---|---|---|
+| solidcraft | 用纯 Rust 写的开源参数化 3D CAD，桌面/网页/CLI，内置 MCP 可让 AI 按自然语言画零件；支持草图约束、拉伸/旋转/扫掠、倒角抽壳、装配体关节与干涉检查；导入导出 STEP/IGES/STL/glTF，可导出 URDF。 | Rust | ~9.5k | [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) | [rutionford-wq/solidcraft](https://github.com/rutionford-wq/solidcraft) | 2026-10-23 | [用户转发的 X 帖子](https://x.com/Ryrenz/status/2112710969906327609) |
 
 ## 其他
 
